@@ -75,7 +75,5 @@ python loan_analysis.py
 - Classification results and model performance will be displayed in the console.
 
 ## License
-This project is licensed under the MIT License.
-```
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this project, provided that all copies include the original copyright notice and license. For more details, please refer to the [LICENSE](LICENSE) file included in this repository.
 
-Feel free to copy and paste this into your `README.md` file! Let me know if you need any further adjustments.
